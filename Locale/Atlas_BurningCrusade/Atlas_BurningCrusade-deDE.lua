@@ -32,6 +32,7 @@ L["Abbendis"] = "Abbendis"
 L["AC"] = "Krypta"
 L["Advance Scout Chadwick"] = "Vorhutsspäher Chadwick"
 L["Aged Dalaran Wizard"] = "Gealterter Hexer von Dalaran"
+L["Akil'zon <Eagle Avatar>"] = "Akil'zon <Avatar des Adlers>"
 --[[Translation missing --]]
 --[[ L["Al'ar"] = ""--]]
 --[[Translation missing --]]
@@ -80,8 +81,7 @@ L["Bilger the Straight-laced"] = "Bilger der Strenge"
 --[[ L["Blackheart the Inciter"] = ""--]]
 --[[Translation missing --]]
 --[[ L["Blindeye the Seer"] = ""--]]
---[[Translation missing --]]
---[[ L["Blood Guard Hakkuz <Darkspear Elite>"] = ""--]]
+L["Blood Guard Hakkuz <Darkspear Elite>"] = "Blutwache Hakkuz <Dunkelspeer-Elite>"
 --[[Translation missing --]]
 --[[ L["Blood Guard Porung"] = ""--]]
 --[[Translation missing --]]
@@ -120,8 +120,7 @@ L["CR"] = "EK"
 L["Cryo-Engineer Sha'heen"] = "Kryoingenieur Sha'heen"
 --[[Translation missing --]]
 --[[ L["Dalliah the Doomsayer"] = ""--]]
---[[Translation missing --]]
---[[ L["Darkheart"] = ""--]]
+L["Darkheart"] = "Düsterherz"
 --[[Translation missing --]]
 --[[ L["Darkweaver Syth"] = ""--]]
 L["Dealer Tariq <Shady Dealer>"] = "Händler Tariq <Zwielichtiger Händler>"
@@ -149,8 +148,7 @@ L["Erozion"] = "Erozion"
 --[[Translation missing --]]
 --[[ L["Essence of Suffering"] = ""--]]
 L["Ethereal Transporter Control Panel"] = "Bedienungskonsole des Astraltransporters"
---[[Translation missing --]]
---[[ L["Eulinda <Reagents>"] = ""--]]
+L["Eulinda <Reagents>"] = "Eulinda <Reagenzien>"
 L["Exarch Larethor"] = "Exarch Larethor"
 --[[Translation missing --]]
 --[[ L["Exarch Maladaar"] = ""--]]
@@ -161,13 +159,11 @@ L["Farmer Kent"] = "Bauer Kent"
 L["Fel Crystals"] = "Teufelskristalle"
 --[[Translation missing --]]
 --[[ L["Felmyst"] = ""--]]
---[[Translation missing --]]
---[[ L["Fenstalker"] = ""--]]
+L["Fenstalker"] = "Fennpirscher"
 L["Field Commander Mahfuun"] = "Feldkommandeur Mahfuun"
 L["First Fragment Guardian"] = "Wächter des ersten Teils"
 L["Fizzle"] = "Zischel"
---[[Translation missing --]]
---[[ L["Forest Frogs"] = ""--]]
+L["Forest Frogs"] = "Urwaldfrösche"
 L["Frances Lin <Barmaid>"] = "Frances Lin <Bardame>"
 --[[Translation missing --]]
 --[[ L["Galgrom <Provisioner>"] = ""--]]
@@ -198,9 +194,9 @@ L["Gunny"] = "Gunny"
 --[[Translation missing --]]
 --[[ L["Gurtogg Bloodboil"] = ""--]]
 L["Hal McAllister"] = "Hal McAllister"
+L["Halazzi <Lynx Avatar>"] = "Halazzi <Avatar des Luchses>"
 L["Ha'lei"] = "Ha'lei"
---[[Translation missing --]]
---[[ L["Harald <Food Vendor>"] = ""--]]
+L["Harald <Food Vendor>"] = "Harald <Lebensmittelhändler>"
 --[[Translation missing --]]
 --[[ L["Harbinger Skyriss"] = ""--]]
 L["Hastings <The Caretaker>"] = "Hastings <Der Hauswart>"
@@ -232,6 +228,7 @@ L["Indormi <Keeper of Ancient Gem Lore>"] = "Indormi <Bewahrerin der alten Edels
 L["Innkeeper Monica"] = "Gastwirtin Monica"
 L["Isfar"] = "Isfar"
 L["Isillien"] = "Isillien"
+L["Jan'alai <Dragonhawk Avatar>"] = "Jan'alai <Avatar des Drachenfalken>"
 L["Jay Lemieux"] = "Jay Lemieux"
 L["Jerry Carter"] = "Jerry Carter"
 L["Jonathan Revah"] = "Jonathan Revah"
@@ -337,6 +334,7 @@ L["MT"] = "Gruft"
 --[[ L["M'uru"] = ""--]]
 L["Mysterious Bookshelf"] = "Verdächtiges Bücherregal"
 L["Nahuud"] = "Nahuud"
+L["Nalorakk <Bear Avatar>"] = "Nalorakk <Avatar des Bären>"
 L["Nat Pagle"] = "Nat Pagle"
 L["Nathanos Marris"] = "Nathanos Marris"
 L["Naturalist Bite"] = "Naturalist Biss"
@@ -438,8 +436,7 @@ L["Shattered Hand Executioner"] = "Henker der Zerschmetterten Hand"
 --[[ L["Shirrak the Dead Watcher"] = ""--]]
 L["Skar'this the Heretic"] = "Nar'biss der Ketzer"
 L["SL"] = "Laby"
---[[Translation missing --]]
---[[ L["Slither"] = ""--]]
+L["Slither"] = "Glibber"
 L["Sliver <Garaxxas' Pet>"] = "Splitter <Garaxxas Tier>"
 --[[Translation missing --]]
 --[[ L["Soridormi <The Scale of Sands>"] = ""--]]
@@ -499,8 +496,7 @@ L["The Codex of Blood"] = "Kodex des Blutes"
 --[[ L["The Lurker Below"] = ""--]]
 --[[Translation missing --]]
 --[[ L["The Maker"] = ""--]]
---[[Translation missing --]]
---[[ L["The Map of Zul'Aman"] = ""--]]
+L["The Map of Zul'Aman"] = "Karte von Zul'Aman"
 L["The Master's Terrace"] = "Die Terrasse des Meisters"
 L["The Saga of Terokk"] = "Die Sage von Terokk"
 L["The Underspore"] = "Die Tiefenspore"
@@ -537,10 +533,8 @@ L["Udalo"] = "Udalo"
 --[[ L["Vexallus"] = ""--]]
 --[[Translation missing --]]
 --[[ L["Void Reaver"] = ""--]]
---[[Translation missing --]]
---[[ L["Vol'jin"] = ""--]]
---[[Translation missing --]]
---[[ L["Voodoo Pile"] = ""--]]
+L["Vol'jin"] = "Vol'jin"
+L["Voodoo Pile"] = "Voodoohaufen"
 --[[Translation missing --]]
 --[[ L["Warbringer O'mrogg"] = ""--]]
 --[[Translation missing --]]
@@ -557,8 +551,7 @@ L["Watcher Jhang"] = "Behüterin Jhang"
 --[[ L["Watchkeeper Gargolmar"] = ""--]]
 L["Weeder Greenthumb"] = "Jäter Gründaum"
 L["Windcaller Claw"] = "Windrufer Klaue"
---[[Translation missing --]]
---[[ L["Witch Doctor T'wansi"] = ""--]]
+L["Witch Doctor T'wansi"] = "Hexendoktor T'wansi"
 L["Wizard of Oz"] = "Zauberer von Oz"
 --[[Translation missing --]]
 --[[ L["Wrath-Scryer Soccothrates"] = ""--]]
@@ -566,8 +559,7 @@ L["Wravien <The Mage>"] = "Wravien <Der Magier>"
 --[[Translation missing --]]
 --[[ L["Yarley <Armorer>"] = ""--]]
 L["Yazzai"] = "Yazzai"
---[[Translation missing --]]
---[[ L["Yor"] = ""--]]
+L["Yor <Void Hound of Shaffar>"] = "Yor <Shaffars Leerenhund>"
 L["Young Blanchy"] = "Kleine Graumähne"
 L["Ythyar"] = "Ythyar"
 --[[Translation missing --]]
@@ -576,5 +568,6 @@ L["Zelfan"] = "Zelfan"
 --[[Translation missing --]]
 --[[ L["Zereketh the Unbound"] = ""--]]
 L["Zixil <Aspiring Merchant>"] = "Zixil <Aufstrebender Händler>"
+L["Zul'jin"] = "Zul'jin"
 --[[Translation missing --]]
 --[[ L["Zungam"] = ""--]]
