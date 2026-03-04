@@ -30,7 +30,7 @@ local BZ = Atlas_GetLocaleLibBabble("LibBabble-SubZone-3.0")
 local BF = Atlas_GetLocaleLibBabble("LibBabble-Faction-3.0")
 local L = LibStub("AceLocale-3.0"):GetLocale(private.addon_name)
 local ALC = LibStub("AceLocale-3.0"):GetLocale("Atlas")
-local ALIL = Atlas_IngameLocales
+-- local ALIL = Atlas_IngameLocales
 local Atlas = LibStub("AceAddon-3.0"):GetAddon("Atlas")
 local addon = Atlas:NewModule(private.module_name)
 

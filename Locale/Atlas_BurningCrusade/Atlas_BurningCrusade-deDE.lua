@@ -35,27 +35,22 @@ L["Aged Dalaran Wizard"] = "Gealterter Hexer von Dalaran"
 L["Akil'zon <Eagle Avatar>"] = "Akil'zon <Avatar des Adlers>"
 --[[Translation missing --]]
 --[[ L["Al'ar"] = ""--]]
---[[Translation missing --]]
---[[ L["Alexston Chrome <Tavern of Time>"] = ""--]]
---[[Translation missing --]]
---[[ L["Alurmi <Keepers of Time Quartermaster>"] = ""--]]
+L["Alexston Chrome <Tavern of Time>"] = "Alexston Chrom <Taverne der Zeit>"
+L["Alurmi <Keepers of Time Quartermaster>"] = "Alurmi <Rüstmeisterin der Hüter der Zeit>"
 L["Aluyen <Reagents>"] = "Aluyen <Reagenzien>"
 --[[Translation missing --]]
 --[[ L["Alyson Antille"] = ""--]]
 --[[Translation missing --]]
 --[[ L["Ambassador Hellmaw"] = ""--]]
 L["Ambassador Pax'ivi"] = "Botschafter Pax'ivi"
---[[Translation missing --]]
---[[ L["Anachronos <Keepers of Time>"] = ""--]]
---[[Translation missing --]]
---[[ L["Andormu <Keepers of Time>"] = ""--]]
+L["Anachronos <Keepers of Time>"] = "Anachronos <Hüter der Zeit>"
+L["Andormu <Keepers of Time>"] = "Andormu <Hüter der Zeit>"
 --[[Translation missing --]]
 --[[ L["Anzu"] = ""--]]
 L["Apoko"] = "Apoko"
 --[[Translation missing --]]
 --[[ L["Apprentice Darius"] = ""--]]
---[[Translation missing --]]
---[[ L["Arazmodu <The Scale of Sands>"] = ""--]]
+L["Arazmodu <The Scale of Sands>"] = "Arazmodu <Die Wächter der Sande>"
 L["Arca"] = "Arka"
 --[[Translation missing --]]
 --[[ L["Archmage Alturus"] = ""--]]
@@ -84,8 +79,7 @@ L["Bilger the Straight-laced"] = "Bilger der Strenge"
 L["Blood Guard Hakkuz <Darkspear Elite>"] = "Blutwache Hakkuz <Dunkelspeer-Elite>"
 --[[Translation missing --]]
 --[[ L["Blood Guard Porung"] = ""--]]
---[[Translation missing --]]
---[[ L["Bortega <Reagents & Poison Supplies>"] = ""--]]
+L["Bortega <Reagents & Poison Supplies>"] = "Bortega <Reagenzien & Gifte>"
 L["Bota"] = "Bota"
 L["Brazen"] = "Brazen"
 --[[Translation missing --]]
@@ -107,6 +101,7 @@ L["Chef Jessen <Speciality Meat & Slop>"] = "Küchenchef Jessen <Spezialitätenf
 --[[Translation missing --]]
 --[[ L["Chess Event"] = ""--]]
 L["Clarissa"] = "Clarissa"
+L["Claw <Swamplord Musel'ek's Pet>"] = "Klaue <Sumpffürst Musel'eks Tier>"
 L["Commander Mograine"] = "Kommandant Mograine"
 --[[Translation missing --]]
 --[[ L["Commander Sarannis"] = ""--]]
@@ -165,8 +160,7 @@ L["First Fragment Guardian"] = "Wächter des ersten Teils"
 L["Fizzle"] = "Zischel"
 L["Forest Frogs"] = "Urwaldfrösche"
 L["Frances Lin <Barmaid>"] = "Frances Lin <Bardame>"
---[[Translation missing --]]
---[[ L["Galgrom <Provisioner>"] = ""--]]
+L["Galgrom <Provisioner>"] = "Galgrom <Versorger>"
 L["Garaxxas"] = "Garaxxas"
 --[[Translation missing --]]
 --[[ L["Gatewatcher Gyro-Kill"] = ""--]]
@@ -328,8 +322,7 @@ L["Mortog Steamhead"] = "Mortog Dampfkopf"
 --[[Translation missing --]]
 --[[ L["Mother Shahraz"] = ""--]]
 L["MT"] = "Gruft"
---[[Translation missing --]]
---[[ L["Murmur"] = ""--]]
+L["Murmur"] = true
 --[[Translation missing --]]
 --[[ L["M'uru"] = ""--]]
 L["Mysterious Bookshelf"] = "Verdächtiges Bücherregal"
@@ -338,32 +331,28 @@ L["Nalorakk <Bear Avatar>"] = "Nalorakk <Avatar des Bären>"
 L["Nat Pagle"] = "Nat Pagle"
 L["Nathanos Marris"] = "Nathanos Marris"
 L["Naturalist Bite"] = "Naturalist Biss"
---[[Translation missing --]]
---[[ L["Nazan"] = ""--]]
+L["Nazan"] = true
+L["Nazan <Vazruden's Mount>"] = "Nazan <Vazrudens Reittier>"
 --[[Translation missing --]]
 --[[ L["Nethermancer Sepethrea"] = ""--]]
 --[[Translation missing --]]
 --[[ L["Netherspite"] = ""--]]
 L["Nexus-Prince Haramad"] = "Nexusprinz Haramad"
---[[Translation missing --]]
---[[ L["Nexus-Prince Shaffar"] = ""--]]
+L["Nexus-Prince Shaffar"] = "Nexusprinz Shaffar"
 --[[Translation missing --]]
 --[[ L["Nightbane"] = ""--]]
 --[[Translation missing --]]
 --[[ L["Norkani"] = ""--]]
---[[Translation missing --]]
---[[ L["Nozari <Keepers of Time>"] = ""--]]
+L["Nozari <Keepers of Time>"] = "Nozari <Hüter der Zeit>"
 L["Okuno <Ashtongue Deathsworn Quartermaster>"] = "Okuno <Rüstmeister der Todeshörigen>"
 --[[Translation missing --]]
 --[[ L["Olm the Summoner"] = ""--]]
---[[Translation missing --]]
---[[ L["Omor the Unscarred"] = ""--]]
+L["Omor the Unscarred"] = "Omor der Narbenlose"
 --[[Translation missing --]]
 --[[ L["Opera Hall"] = ""--]]
 L["Overcharged Manacell"] = "Überladene Manazelle"
 L["Overwatch Mark 0 <Protector>"] = "Überwacher V.0 <Beschützer>"
---[[Translation missing --]]
---[[ L["Pandemonius"] = ""--]]
+L["Pandemonius"] = true
 L["Path to the Broken Stairs"] = "Weg zur Beschädigten Treppe"
 L["Path to the Hellfire Ramparts and Shattered Halls"] = "Pfad zum Höllenfeuerbollwerk und den zerschmetterten Hallen"
 --[[Translation missing --]]
@@ -438,8 +427,7 @@ L["Skar'this the Heretic"] = "Nar'biss der Ketzer"
 L["SL"] = "Laby"
 L["Slither"] = "Glibber"
 L["Sliver <Garaxxas' Pet>"] = "Splitter <Garaxxas Tier>"
---[[Translation missing --]]
---[[ L["Soridormi <The Scale of Sands>"] = ""--]]
+L["Soridormi <The Scale of Sands>"] = "Soridormi <Die Wächter der Sande>"
 L["Southshore Inn"] = "Süderstade Gasthaus"
 L["SP"] = "SU"
 L["Spiral Stairs to Netherspace"] = "Wendeltreppe zum Netherraum"
@@ -460,8 +448,7 @@ L["SSC"] = "SSC, HdS"
 --[[ L["Stairs to Upper Stable"] = ""--]]
 L["Stalvan Mistmantle"] = "Stalvan Dunstmantel"
 L["Steps and path to the Blood Furnace"] = "Stufen und Pfad zum Blutkessel"
---[[Translation missing --]]
---[[ L["Steward of Time <Keepers of Time>"] = ""--]]
+L["Steward of Time <Keepers of Time>"] = "Ordner der Zeit <Hüter der Zeit>"
 L["Stone Guard Stok'ton"] = "Steingardist Stok'ton"
 --[[Translation missing --]]
 --[[ L["Strawman"] = ""--]]
@@ -470,8 +457,7 @@ L["SuP"] = "Sunwell"
 --[[ L["Supremus"] = ""--]]
 L["SV"] = "DK"
 L["Taelan"] = "Taelan"
---[[Translation missing --]]
---[[ L["Talon King Ikiss"] = ""--]]
+L["Talon King Ikiss"] = "Klauenkönig Ikiss"
 L["Taretha"] = "Taretha"
 --[[Translation missing --]]
 --[[ L["Tavarok"] = ""--]]
@@ -490,6 +476,7 @@ L["The Codex of Blood"] = "Kodex des Blutes"
 --[[ L["The Curator"] = ""--]]
 --[[Translation missing --]]
 --[[ L["The Eredar Twins"] = ""--]]
+L["The Eye of Haramad"] = "Das Auge des Haramad"
 --[[Translation missing --]]
 --[[ L["The Illidari Council"] = ""--]]
 --[[Translation missing --]]
@@ -533,7 +520,7 @@ L["Udalo"] = "Udalo"
 --[[ L["Vexallus"] = ""--]]
 --[[Translation missing --]]
 --[[ L["Void Reaver"] = ""--]]
-L["Vol'jin"] = "Vol'jin"
+L["Vol'jin"] = true
 L["Voodoo Pile"] = "Voodoohaufen"
 --[[Translation missing --]]
 --[[ L["Warbringer O'mrogg"] = ""--]]
@@ -547,8 +534,7 @@ L["Warlord Salaris"] = "Kriegsherr Salaris"
 --[[Translation missing --]]
 --[[ L["Warp Splinter"] = ""--]]
 L["Watcher Jhang"] = "Behüterin Jhang"
---[[Translation missing --]]
---[[ L["Watchkeeper Gargolmar"] = ""--]]
+L["Watchkeeper Gargolmar"] = "Wachhabender Gargolmar"
 L["Weeder Greenthumb"] = "Jäter Gründaum"
 L["Windcaller Claw"] = "Windrufer Klaue"
 L["Witch Doctor T'wansi"] = "Hexendoktor T'wansi"
@@ -556,18 +542,16 @@ L["Wizard of Oz"] = "Zauberer von Oz"
 --[[Translation missing --]]
 --[[ L["Wrath-Scryer Soccothrates"] = ""--]]
 L["Wravien <The Mage>"] = "Wravien <Der Magier>"
---[[Translation missing --]]
---[[ L["Yarley <Armorer>"] = ""--]]
+L["Yarley <Armorer>"] = "Yarley <Rüstungsschmied>"
 L["Yazzai"] = "Yazzai"
+L["Yor"] = true
 L["Yor <Void Hound of Shaffar>"] = "Yor <Shaffars Leerenhund>"
 L["Young Blanchy"] = "Kleine Graumähne"
 L["Ythyar"] = "Ythyar"
---[[Translation missing --]]
---[[ L["Zaladormu"] = ""--]]
+L["Zaladormu"] = true
 L["Zelfan"] = "Zelfan"
 --[[Translation missing --]]
 --[[ L["Zereketh the Unbound"] = ""--]]
 L["Zixil <Aspiring Merchant>"] = "Zixil <Aufstrebender Händler>"
-L["Zul'jin"] = "Zul'jin"
---[[Translation missing --]]
---[[ L["Zungam"] = ""--]]
+L["Zul'jin"] = true
+L["Zungam"] = true

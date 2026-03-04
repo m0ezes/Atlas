@@ -30,7 +30,7 @@ local BZ = Atlas_GetLocaleLibBabble("LibBabble-SubZone-3.0")
 local BF = Atlas_GetLocaleLibBabble("LibBabble-Faction-3.0")
 local L = LibStub("AceLocale-3.0"):GetLocale(private.addon_name)
 local ALC = LibStub("AceLocale-3.0"):GetLocale("Atlas")
-local ALIL = Atlas_IngameLocales
+-- local ALIL = Atlas_IngameLocales
 local Atlas = LibStub("AceAddon-3.0"):GetAddon("Atlas")
 local addon = Atlas:NewModule(private.module_name)
 
@@ -121,7 +121,7 @@ db.AtlasMaps = {
 		JournalInstanceID = 250,
 		Module = "Atlas_BurningCrusade",
 		{ ORNG..REPUTATION..ALC["Colon"]..BF["The Consortium"] },
-		{ ORNG..L["Key"]..ALC["Colon"]..ALIL["The Eye of Haramad"]..ALC["L-Parenthesis"]..ALC["Exalted"]..ALC["Comma"]..Atlas_GetBossName("Yor")..ALC["R-Parenthesis"] },
+		{ ORNG..ALC["Key"]..ALC["Colon"]..L["The Eye of Haramad"]..ALC["L-Parenthesis"]..ALC["Exalted"]..ALC["Comma"]..Atlas_GetBossName("Yor")..ALC["R-Parenthesis"] },
 		{ BLUE.." A) "..ALC["Entrance"],                                                                                                                               10001 },
 		{ GREN..INDENT..L["Artificer Morphalius"] },
 		{ GREN..INDENT..L["Mamdy the \"Ologist\""] },
@@ -806,20 +806,20 @@ db.AtlasMaps = {
 		{ BLUE.." C) "..BZ["Old Hillsbrad Foothills"],                                                                    10003 },
 		{ BLUE.." D) "..BZ["The Black Morass"],                                                                           10004 },
 		{ BLUE.." E) "..BZ["The Culling of Stratholme"],                                                                  10005 },
-		{ WHIT.." 1') "..ALC["Steward of Time <Keepers of Time>"],                                                        10010 },
-		{ WHIT.." 2') "..ALC["Alexston Chrome <Tavern of Time>"],                                                         10011 },
+		{ WHIT.." 1') "..L["Steward of Time <Keepers of Time>"],                                                          10010 },
+		{ WHIT.." 2') "..L["Alexston Chrome <Tavern of Time>"],                                                           10011 },
 		{ WHIT.." 3') "..ALC["Graveyard"],                                                                                10012 },
-		{ WHIT.." 4') "..ALC["Yarley <Armorer>"],                                                                         10013 },
-		{ WHIT.." 5') "..ALC["Bortega <Reagents & Poison Supplies>"],                                                     10014 },
-		{ WHIT..INDENT..ALC["Alurmi <Keepers of Time Quartermaster>"] },
-		{ WHIT..INDENT..ALC["Galgrom <Provisioner>"] },
-		{ WHIT.." 6') "..ALC["Zaladormu"],                                                                                10015 },
-		{ WHIT..INDENT..ALC["Soridormi <The Scale of Sands>"]..ALC["L-Parenthesis"]..ALC["Wanders"]..ALC["R-Parenthesis"] },
-		{ WHIT..INDENT..ALC["Arazmodu <The Scale of Sands>"]..ALC["L-Parenthesis"]..ALC["Wanders"]..ALC["R-Parenthesis"] },
+		{ WHIT.." 4') "..L["Yarley <Armorer>"],                                                                           10013 },
+		{ WHIT.." 5') "..L["Bortega <Reagents & Poison Supplies>"],                                                       10014 },
+		{ WHIT..INDENT..L["Alurmi <Keepers of Time Quartermaster>"] },
+		{ WHIT..INDENT..L["Galgrom <Provisioner>"] },
+		{ WHIT.." 6') "..L["Zaladormu"],                                                                                  10015 },
+		{ WHIT..INDENT..L["Soridormi <The Scale of Sands>"]..ALC["L-Parenthesis"]..ALC["Wanders"]..ALC["R-Parenthesis"] },
+		{ WHIT..INDENT..L["Arazmodu <The Scale of Sands>"]..ALC["L-Parenthesis"]..ALC["Wanders"]..ALC["R-Parenthesis"] },
 		{ WHIT.." 7') "..ALC["Moonwell"],                                                                                 10016 },
-		{ WHIT.." 8') "..ALC["Andormu <Keepers of Time>"]..ALC["L-Parenthesis"]..ALC["Child"]..ALC["R-Parenthesis"],      10017 },
-		{ WHIT..INDENT..ALC["Nozari <Keepers of Time>"]..ALC["L-Parenthesis"]..ALC["Child"]..ALC["R-Parenthesis"] },
-		{ WHIT.." 9') "..ALC["Anachronos <Keepers of Time>"],                                                             10018 },
+		{ WHIT.." 8') "..L["Andormu <Keepers of Time>"]..ALC["L-Parenthesis"]..ALC["Child"]..ALC["R-Parenthesis"],        10017 },
+		{ WHIT..INDENT..L["Nozari <Keepers of Time>"]..ALC["L-Parenthesis"]..ALC["Child"]..ALC["R-Parenthesis"] },
+		{ WHIT.." 9') "..L["Anachronos <Keepers of Time>"],                                                               10018 },
 	},
 	CoTBlackMorass = {
 		ZoneName = { BZ["Caverns of Time"]..ALC["Colon"]..BZ["The Black Morass"] },

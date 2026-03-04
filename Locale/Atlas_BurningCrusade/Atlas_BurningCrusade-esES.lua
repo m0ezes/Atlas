@@ -35,27 +35,22 @@ L["Advance Scout Chadwick"] = "Explorador táctico Chadwick"
 L["Aged Dalaran Wizard"] = "Zhaorí Dalaran envejecido"
 --[[Translation missing --]]
 --[[ L["Al'ar"] = ""--]]
---[[Translation missing --]]
---[[ L["Alexston Chrome <Tavern of Time>"] = ""--]]
---[[Translation missing --]]
---[[ L["Alurmi <Keepers of Time Quartermaster>"] = ""--]]
+L["Alexston Chrome <Tavern of Time>"] = "Alexston Cromo <La Taberna del Tiempo>"
+L["Alurmi <Keepers of Time Quartermaster>"] = "Alurmi <Intendente de los Vigilantes del Tiempo>"
 L["Aluyen <Reagents>"] = "Aluyen <Vendedor de Componentes>"
 --[[Translation missing --]]
 --[[ L["Alyson Antille"] = ""--]]
 --[[Translation missing --]]
 --[[ L["Ambassador Hellmaw"] = ""--]]
 L["Ambassador Pax'ivi"] = "Embajador Pax'ivi"
---[[Translation missing --]]
---[[ L["Anachronos <Keepers of Time>"] = ""--]]
---[[Translation missing --]]
---[[ L["Andormu <Keepers of Time>"] = ""--]]
+L["Anachronos <Keepers of Time>"] = "Anacronos <Vigilantes del Tiempo>"
+L["Andormu <Keepers of Time>"] = "Andormu <Vigilantes del Tiempo>"
 --[[Translation missing --]]
 --[[ L["Anzu"] = ""--]]
 L["Apoko"] = "Apoko"
 --[[Translation missing --]]
 --[[ L["Apprentice Darius"] = ""--]]
---[[Translation missing --]]
---[[ L["Arazmodu <The Scale of Sands>"] = ""--]]
+L["Arazmodu <The Scale of Sands>"] = "Arazmodu <La Escama de las Arenas>"
 L["Arca"] = "Arca"
 --[[Translation missing --]]
 --[[ L["Archmage Alturus"] = ""--]]
@@ -85,8 +80,7 @@ L["Bilger the Straight-laced"] = "Maestro cervecero Bilger"
 --[[ L["Blood Guard Hakkuz <Darkspear Elite>"] = ""--]]
 --[[Translation missing --]]
 --[[ L["Blood Guard Porung"] = ""--]]
---[[Translation missing --]]
---[[ L["Bortega <Reagents & Poison Supplies>"] = ""--]]
+L["Bortega <Reagents & Poison Supplies>"] = "Bortega <Suministros de venenos y componentes>"
 L["Bota"] = "Inver"
 L["Brazen"] = "Brazen"
 --[[Translation missing --]]
@@ -170,8 +164,7 @@ L["Fizzle"] = "Fizel"
 --[[Translation missing --]]
 --[[ L["Forest Frogs"] = ""--]]
 L["Frances Lin <Barmaid>"] = "Frances Lin <Camarera>"
---[[Translation missing --]]
---[[ L["Galgrom <Provisioner>"] = ""--]]
+L["Galgrom <Provisioner>"] = "Galgrom <Proveedor>"
 L["Garaxxas"] = "Garaxxas"
 --[[Translation missing --]]
 --[[ L["Gatewatcher Gyro-Kill"] = ""--]]
@@ -355,8 +348,7 @@ L["Nexus-Prince Haramad"] = "Príncipe-nexo Haramad"
 --[[ L["Nightbane"] = ""--]]
 --[[Translation missing --]]
 --[[ L["Norkani"] = ""--]]
---[[Translation missing --]]
---[[ L["Nozari <Keepers of Time>"] = ""--]]
+L["Nozari <Keepers of Time>"] = "Nozari <Vigilantes del Tiempo>"
 L["Okuno <Ashtongue Deathsworn Quartermaster>"] = "Okuno <Provisiones Juramorte Lengua de ceniza>"
 --[[Translation missing --]]
 --[[ L["Olm the Summoner"] = ""--]]
@@ -443,8 +435,7 @@ L["SL"] = "LS"
 --[[Translation missing --]]
 --[[ L["Slither"] = ""--]]
 L["Sliver <Garaxxas' Pet>"] = "Tajada <Mascota de Garaxxas>"
---[[Translation missing --]]
---[[ L["Soridormi <The Scale of Sands>"] = ""--]]
+L["Soridormi <The Scale of Sands>"] = "Soridormi <La Escama de las Arenas>"
 L["Southshore Inn"] = "Posada de Costasur"
 L["SP"] = "Recinto"
 L["Spiral Stairs to Netherspace"] = "Escaleras de caracol a Rencor Abisal"
@@ -465,8 +456,7 @@ L["SSC"] = "CSS"
 --[[ L["Stairs to Upper Stable"] = ""--]]
 L["Stalvan Mistmantle"] = "Stalvan Mantoniebla"
 L["Steps and path to the Blood Furnace"] = "Escaleras y camino hacia Hornos de Sangre"
---[[Translation missing --]]
---[[ L["Steward of Time <Keepers of Time>"] = ""--]]
+L["Steward of Time <Keepers of Time>"] = "Administrador del Tiempo <Vigilantes del Tiempo>"
 L["Stone Guard Stok'ton"] = "Guardia de piedra Stok'ton"
 --[[Translation missing --]]
 --[[ L["Strawman"] = ""--]]
@@ -565,15 +555,13 @@ L["Wizard of Oz"] = "El mago de Oz"
 --[[Translation missing --]]
 --[[ L["Wrath-Scryer Soccothrates"] = ""--]]
 L["Wravien <The Mage>"] = "Wravien <El Mago>"
---[[Translation missing --]]
---[[ L["Yarley <Armorer>"] = ""--]]
+L["Yarley <Armorer>"] = "Yarley <Armero>"
 L["Yazzai"] = "Yazzai"
 --[[Translation missing --]]
 --[[ L["Yor"] = ""--]]
 L["Young Blanchy"] = "Joven Blanchy"
 L["Ythyar"] = "Ythyar"
---[[Translation missing --]]
---[[ L["Zaladormu"] = ""--]]
+L["Zaladormu"] = true
 L["Zelfan"] = "Zelfan"
 --[[Translation missing --]]
 --[[ L["Zereketh the Unbound"] = ""--]]
