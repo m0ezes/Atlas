@@ -1544,7 +1544,6 @@ db.DropDownLayouts = {
 		[ATLAS_DDL_TYPE_ENTRANCE] = {
 			"CL_AuchindounEnt",
 			"CL_CoilfangReservoirEnt",
-			"CL_CoTHyjalEnt",
 			"HellfireCitadelEnt",
 			"CL_KarazhanEnt",
 			"TempestKeepEnt",
